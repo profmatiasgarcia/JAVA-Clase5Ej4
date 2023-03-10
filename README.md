@@ -1,6 +1,10 @@
 # JAVA-Clase5Ej4
+## Ejemplo 4 del Tutorial de JAVA Clase 5
 
-Ejemplo 4 del apunte de [JAVA Clase 5](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA5.pdf).
-<ul>
-  <li> Threads / Hilos en JAVA</li>
-</ul>
+  * Threads / Hilos en JAVA
+
+## Apunte Clase Teórica JAVA 5
+[JAVA-Clase5](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA5.pdf)
+
+## Licencia
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
